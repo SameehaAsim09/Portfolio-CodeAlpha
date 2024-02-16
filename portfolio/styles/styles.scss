@@ -298,6 +298,12 @@ section{
               color: var(--color-white);
               margin: 0 1rem;
             }
+            &:hover{
+              background-color: var(--color-white);
+              i{
+                color: var(--color-primary);
+              }
+            }
           }
         }
       }

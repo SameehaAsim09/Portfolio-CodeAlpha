@@ -314,6 +314,12 @@ section {
   color: var(--color-white);
   margin: 0 1rem;
 }
+.portfolios .portfolio-item .hover-item .icons .icon:hover {
+  background-color: var(--color-white);
+}
+.portfolios .portfolio-item .hover-item .icons .icon:hover i {
+  color: var(--color-primary);
+}
 
 /*Independed components*/
 .btn-con {
