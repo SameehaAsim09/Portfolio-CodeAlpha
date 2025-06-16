@@ -3,7 +3,7 @@
 A modern, responsive, and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This portfolio highlights my skills, showcases my projects, and provides an easy way to get in touch.
 
 ## 🔗 Live Demo
-[👉 View Portfolio Website](https://your-portfolio-link.com) 
+[👉 View Portfolio Website](https://sameehaasim09.github.io/Portfolio-CodeAlpha/) 
 
 ## 📌 Features
 
